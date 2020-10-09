@@ -1,11 +1,17 @@
 # Toxic Language Dataset for Brazilian Portuguese (ToLD-Br)
-Repository for [Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis]().
+Repository for TolD-Br: a dataset with tweets in Brazilian Portuguese annotated according to different toxic aspects.
 
 ## Dataset
 * ToLD-BR.csv - Each column has a value from 0 to 3 representing the number of times this example got flagged as toxic.
 * ToLD-BR_alpha.csv - Annotations are not aggregated for each class, so values are either 0 or 1 and each class has 3 columns.
 
-**If you want access to the full dataset with demographic information for each annotator or the raw tweets collected for this paper, contact us.**
+**If you want access to the full dataset with demographic information for each annotator or the tweet IDs collected for this paper, contact us.**
+
+## Citing ToLD-Br
+João A. Leite, Diego F. Silva, Kalina Bontcheva, Carolina Scarton (2020): Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis. To appear in the Proceedings of the AACL-IJCNLP 2020. [arxvi verstion]()
+
+## License
+ToLD-Br is licensed under a Creative Commons BY-SA 4.0 license that can be found in the file LICENSE.txt.
 
 ## Trained Model
 You can download a pre-trained Multilingual BERT fine-tuned with ToLD-Br for your application at https://drive.google.com/file/d/1Q8MuO4SsND0xzDIW9TNvzfl5Fc2NGwAJ/. This model has been trained with a binary representation of ToLD-Br and only predicts toxic vs non-toxic examples.
@@ -33,9 +39,3 @@ You can download a pre-trained Multilingual BERT fine-tuned with ToLD-Br for you
 
 ### Word Cloud
 * run ```experiments/wordcloud.ipynb```.
-
-## Authors
-* João Augusto Leite (Universidade Federal de São Carlos)
-* Diego Furtado Silva (Universidade Federal de São Carlos)
-* Kalina Bontcheva (University of Sheffield)
-* Carolina Scarton (University of Sheffield)
