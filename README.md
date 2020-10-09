@@ -11,7 +11,8 @@ Repository for TolD-Br: a dataset with tweets in Brazilian Portuguese annotated 
 João A. Leite, Diego F. Silva, Kalina Bontcheva, Carolina Scarton (2020): Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis. To appear in the Proceedings of the AACL-IJCNLP 2020. [arxvi verstion]()
 
 ## License
-ToLD-Br is licensed under a Creative Commons BY-SA 4.0 license that can be found in the file LICENSE.txt.
+ToLD-Br is licensed under a Creative Commons BY-SA 4.0 license that can be found in the file LICENSE_ToLD-Br.txt.
+The code available for reproducing experiments is licensed under a MIT license that can be found in the file LICENSE_code.txt.
 
 ## Trained Model
 You can download a pre-trained Multilingual BERT fine-tuned with ToLD-Br for your application at https://drive.google.com/file/d/1Q8MuO4SsND0xzDIW9TNvzfl5Fc2NGwAJ/. This model has been trained with a binary representation of ToLD-Br and only predicts toxic vs non-toxic examples.
