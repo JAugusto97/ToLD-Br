@@ -8,7 +8,7 @@ Repository for TolD-Br: a dataset with tweets in Brazilian Portuguese annotated 
 **If you want access to the full dataset with demographic information for each annotator or the tweet IDs collected for this paper, contact us.**
 
 ## Citing ToLD-Br
-João A. Leite, Diego F. Silva, Kalina Bontcheva, Carolina Scarton (2020): Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis. To appear in the Proceedings of the AACL-IJCNLP 2020. [arxvi verstion]()
+João A. Leite, Diego F. Silva, Kalina Bontcheva, Carolina Scarton (2020): Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis. To appear in the Proceedings of the AACL-IJCNLP 2020. [arxvi version](https://arxiv.org/abs/2010.04543)
 
 ## License
 ToLD-Br is licensed under a Creative Commons BY-SA 4.0 license that can be found in the file LICENSE_ToLD-Br.txt.
