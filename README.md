@@ -1,5 +1,5 @@
 # Toxic Language Dataset for Brazilian Portuguese (ToLD-Br)
-Repository for TolD-Br: a dataset with tweets in Brazilian Portuguese annotated according to different toxic aspects.
+Repository for ToLD-Br: a dataset with tweets in Brazilian Portuguese annotated according to different toxic aspects.
 
 ## Dataset
 * ToLD-BR.csv - Each column has a value from 0 to 3 representing the number of times this example got flagged as toxic.
