@@ -1,0 +1,6 @@
+homofobico:viado,veado,viadinho,veadinho,viadao,veadao,bicha,bixa,bichinha,bixinha,bichona,bixona,baitola,sapatão,sapatao,traveco,bambi,biba,boiola,marica,gayzão,gayzao,flor,florzinha
+obsceno:vagabundo,vagaba,desgraçada,desgraçado,desgracado,arrombado,arrombada,foder,fuder,fudido,fodido,cú,cu,pinto,pau,pal,caralho,caraio,carai,pica,cacete,rola,porra,escroto,buceta,fdp,pqp,vsf,tnc,vtnc,puto,putinho
+insulto:acéfalo,acefalo,burro,idiota,trouxa,estúpido,estupido,estúpida,canalha,demente,retardado,retardada,verme,maldito,maldita,ridículo,ridiculo,ridícula,ridicula,morfético,morfetico,morfética,morfetica,lazarento,lazarenta,lixo,mongolóide,mongoloide,mongol,asqueroso,asquerosa,cretino,cretina,babaca,pilantra
+racismo:neguinho,neguinha,pretinho,pretinha,escurinho,escurinha,pretinha,pretinho,crioulo,criolo,crioula,criola,macaco,macaca,gorila
+misogino:puta,vagabunda,vagaba,mulherzinha,piranha,feminazi,putinha,piriguete,vaca,putinha
+xenofobia:bahiano,baiano,baianagem,xingling,xing ling,xing-ling,carioca,paulista,sulista,mineiro,gringo
