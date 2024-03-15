@@ -8,7 +8,26 @@ Repository for ToLD-Br: a dataset with tweets in Brazilian Portuguese annotated 
 **If you want access to the full dataset with demographic information for each annotator or the tweet IDs collected for this paper, contact us.**
 
 ## Citing ToLD-Br
-João A. Leite, Diego F. Silva, Kalina Bontcheva, Carolina Scarton (2020): Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis. Published at AACL-IJCNLP 2020. [arxiv version](https://arxiv.org/abs/2010.04543)
+```
+@inproceedings{leite-etal-2020-toxic,
+    title = "Toxic Language Detection in Social Media for {B}razilian {P}ortuguese: New Dataset and Multilingual Analysis",
+    author = "Leite, Jo{\~a}o Augusto  and
+      Silva, Diego  and
+      Bontcheva, Kalina  and
+      Scarton, Carolina",
+    editor = "Wong, Kam-Fai  and
+      Knight, Kevin  and
+      Wu, Hua",
+    booktitle = "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing",
+    month = dec,
+    year = "2020",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.aacl-main.91",
+    pages = "914--924",
+    abstract = "Hate speech and toxic comments are a common concern of social media platform users. Although these comments are, fortunately, the minority in these platforms, they are still capable of causing harm. Therefore, identifying these comments is an important task for studying and preventing the proliferation of toxicity in social media. Previous work in automatically detecting toxic comments focus mainly in English, with very few work in languages like Brazilian Portuguese. In this paper, we propose a new large-scale dataset for Brazilian Portuguese with tweets annotated as either toxic or non-toxic or in different types of toxicity. We present our dataset collection and annotation process, where we aimed to select candidates covering multiple demographic groups. State-of-the-art BERT models were able to achieve 76{\%} macro-F1 score using monolingual data in the binary case. We also show that large-scale monolingual data is still needed to create more accurate models, despite recent advances in multilingual approaches. An error analysis and experiments with multi-label classification show the difficulty of classifying certain types of toxic comments that appear less frequently in our data and highlights the need to develop models that are aware of different categories of toxicity.",
+}
+```
 
 ## License
 ToLD-Br is licensed under a Creative Commons BY-SA 4.0 license that can be found in the file LICENSE_ToLD-Br.txt.
